@@ -2,4 +2,4 @@
 
 DAY 6 Activities
 
-There was no assignment
+There was no assignment.
